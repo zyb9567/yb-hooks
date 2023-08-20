@@ -2,7 +2,7 @@
 title: 首页
 hero:
   image: /short-logo.png
-  desc: 印客学院 React 业务 Hooks
+  desc: 企业 React 业务 Hooks
   actions:
     - text: 指南
       link: /guide
@@ -20,13 +20,13 @@ footer: Copyright (c) © 2023 by encode studio, All Rights Reserved
 ## 📦 安装
 
 ```bash
-$ pnpm install --save encode-hooks
+$ pnpm install --save yb-hooks
 # or
-$ yarn add encode-hooks
+$ yarn add yb-hooks
 ```
 
 ## 🔨 使用
 
 ```ts
-import { useToggle } from 'encode-hooks';
+import { useToggle } from 'yb-hooks';
 ```
