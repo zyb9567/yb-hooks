@@ -1,0 +1,19 @@
+{
+  "vendors~docs__guide__index.md~docs__index.md~dumi_demos~wrappers.js": "/vendors~docs__guide__index.md~docs__index.md~dumi_demos~wrappers.be6458cf.async.js",
+  "vendors~docs__index.md~dumi_demos.css": "/vendors~docs__index.md~dumi_demos.8fe314e5.chunk.css",
+  "vendors~docs__index.md~dumi_demos.js": "/vendors~docs__index.md~dumi_demos.e2e7ce70.async.js",
+  "docs__guide__index.md.js": "/docs__guide__index.md.8c4c54a2.async.js",
+  "docs__index.md.js": "/docs__index.md.6ff5809e.async.js",
+  "dumi_demos.js": "/dumi_demos.325e6037.async.js",
+  "umi.js": "/umi.acfc88a7.js",
+  "vendors~dumi_demos.css": "/vendors~dumi_demos.bde9f854.chunk.css",
+  "vendors~dumi_demos.js": "/vendors~dumi_demos.f3078540.async.js",
+  "vendors~wrappers.css": "/vendors~wrappers.1a16d555.chunk.css",
+  "vendors~wrappers.js": "/vendors~wrappers.42b30e55.async.js",
+  "wrappers.js": "/wrappers.bf02be7a.async.js",
+  "404.html": "/404.html",
+  "_demos/:uuid/index.html": "/_demos/:uuid/index.html",
+  "guide/index.html": "/guide/index.html",
+  "index.html": "/index.html",
+  "~demos/:uuid/index.html": "/~demos/:uuid/index.html"
+}
